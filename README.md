@@ -1,1 +1,1 @@
-<iframe src='https://tradingeconomics.com/embed/?s=unitedkinconpriindcp&v=202410171620V20230410&h=220&w=350&ref=/united-kingdom/consumer-price-index-cpi&type=column&d1=2023-10-01&d2=2024-10-31' height='220' width='350'  frameborder='0' scrolling='no'></iframe>
+<iframe src='https://tradingeconomics.com/embed/?s=netherlandconpriindc&v=202411120552V20230410&h=220&w=350&ref=/netherlands/consumer-price-index-cpi&type=column&d1=2023-11-01&d2=2024-10-31' height='220' width='350'  frameborder='0' scrolling='no'></iframe>
